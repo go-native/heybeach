@@ -1,0 +1,12 @@
+.form-label {
+  padding: .5em 1em .5em 0;
+  flex: 1;
+  font-weight: 600;
+}
+.form-input {
+  flex: 2;
+  padding: .5em;
+}
+.form-input--error {
+  border: 1px solid red;
+}
